@@ -16,6 +16,9 @@ public class serpojo {
         return location;
     }
 
+
+
+
     public void setLocation(serpo_loc location) {
         this.location = location;
     }
